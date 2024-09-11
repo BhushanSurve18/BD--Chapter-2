@@ -1,4 +1,4 @@
-let { Datatypes, sequelize } = require("../lib/");
+let {Datatypes, sequelize} = require("../lib");
 
 let { book } = require("./book.model");
 let { author } = require("./author.model");
